@@ -1,0 +1,59 @@
+.All
+{
+  width: 576px;
+  box-sizing: border-box;
+  margin: 25px auto;
+  padding: 1rem;
+  border: solid #f7f7f9;
+  border-width: .2rem;
+}
+.line
+{
+  border-style: solid;
+  border-width: 100%;
+  border-color: rgb(0, 0, 0);
+}
+.card_auth 
+{           
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width : 3px;
+  border-radius: 10%;
+  width: 100%;
+}
+.card_prep_auth
+{
+  padding-left: 33%;
+  padding-right: 33%; 
+  padding-top : 3%;
+}
+
+.centered 
+{
+  padding-top: 5px;
+  display: grid;
+  justify-content: center;
+}
+.centeredTable 
+{
+  padding-left: 20%;
+  padding-right: 20%;       
+}
+th, tr
+{
+  text-align: center;
+}
+.card 
+{           
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width : 3px;
+  border-radius: 5%;
+  width: 100%;
+}
+.card_prep
+{
+  padding-left: 33%;
+  padding-right: 33%; 
+  padding-bottom: 3%;
+}
